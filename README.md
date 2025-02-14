@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaltAce
-- 👀 I’m interested in privacy projects
+- 👀 I’m interested in privacy and anti-surveillance projects
 - 🌱 I’m currently learning all that I can
 
 <!---
